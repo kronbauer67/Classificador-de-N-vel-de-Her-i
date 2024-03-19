@@ -19,6 +19,6 @@ if (NivelHeroi <1000){
     console.log("O Herói de nome " + Nome + " está no nível ascendente");
 }else if (NivelHeroi<1000){
     console.log("O Herói de nome " + Nome + " está no nível imortal");
-}else(NivelHeroi>1001);{
+}else{
     console.log("O Herói de nome " + Nome + " está no nível radiante");
 }
